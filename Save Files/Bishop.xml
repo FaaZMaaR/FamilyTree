@@ -1,0 +1,8 @@
+<Family>
+  <Date>23.07.2000</Date>
+  <Surname>Bishop</Surname>
+  <Budget>31600</Budget>
+  <Core_member>
+    <Member name="Alice" sex="Female" birth="05.10.1975" health="16" charisma="19" intelligence="53" luck="88" kin="1" generation="1" number="1" primary_ed="Public" secondary_ed="Public" higher_ed="Public" specialization="Economics" spec_level="30" unspec_level="0.0.0.0.0" health_status="Healthy" career_status="Accountant" income="300" costs="150" />
+  </Core_member>
+</Family>

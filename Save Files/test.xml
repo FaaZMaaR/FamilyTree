@@ -1,0 +1,10 @@
+<Family>
+  <Member name="Tim">
+    <Sex>Male</Sex>
+    <Birth>05.02.1998</Birth>
+  </Member>
+  <Member name="Lilya">
+    <Sex>Female</Sex>
+    <Birth>15.04.1995</Birth>
+  </Member>
+</Family>
