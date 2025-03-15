@@ -1,0 +1,25 @@
+<Family>
+  <Date>05.07.2000</Date>
+  <Surname>Smith</Surname>
+  <Budget>37270</Budget>
+  <Core_member>
+    <Member name="Alex" sex="Male" birth="06.05.1975" health="50" charisma="18" intelligence="49" luck="22" kin="1" generation="1" number="1" primary_ed="Public" secondary_ed="Public" higher_ed="Public" specialization="Journalism" spec_level="30" unspec_level="0.0.0.0.0" health_status="Healthy" career_status="Reporter" income="300" costs="150">
+      <Partner>
+        <Member name="Samantha" sex="Female" birth="13.05.1970" health="86" charisma="62" intelligence="36" luck="16" kin="0" generation="1" number="1" primary_ed="Public" secondary_ed="Public" higher_ed="No" specialization="No" spec_level="0" unspec_level="26.0.0.0.0" health_status="Healthy" career_status="Janitor" income="378" costs="150" />
+      </Partner>
+      <Children>
+        <Member name="John" sex="Male" birth="01.01.2000" health="29" charisma="35" intelligence="44" luck="15" kin="1" generation="2" number="1" primary_ed="No" secondary_ed="No" higher_ed="No" specialization="No" spec_level="0" unspec_level="0.0.0.0.0" health_status="Healthy" career_status="Unemployed" income="0" costs="75" />
+        <Member name="Henry" sex="Male" birth="01.01.2000" health="37" charisma="15" intelligence="48" luck="45" kin="1" generation="2" number="2" primary_ed="No" secondary_ed="No" higher_ed="No" specialization="No" spec_level="0" unspec_level="0.0.0.0.0" health_status="Healthy" career_status="Unemployed" income="0" costs="75">
+          <Partner>
+            <Member name="Isabella" sex="Female" birth="07.03.2000" health="89" charisma="35" intelligence="30" luck="71" kin="0" generation="2" number="2" primary_ed="Public" secondary_ed="Public" higher_ed="No" specialization="No" spec_level="0" unspec_level="0.14.0.0.0" health_status="Healthy" career_status="Plumber" income="342" costs="150" />
+          </Partner>
+          <Children>
+            <Member name="Charlotte" sex="Female" birth="01.01.2000" health="37" charisma="12" intelligence="38" luck="68" kin="1" generation="3" number="1" primary_ed="No" secondary_ed="No" higher_ed="No" specialization="No" spec_level="0" unspec_level="0.0.0.0.0" health_status="Healthy" career_status="Unemployed" income="0" costs="75" />
+            <Member name="David" sex="Male" birth="01.01.2000" health="10" charisma="21" intelligence="47" luck="100" kin="1" generation="3" number="2" primary_ed="No" secondary_ed="No" higher_ed="No" specialization="No" spec_level="0" unspec_level="0.0.0.0.0" health_status="Healthy" career_status="Unemployed" income="0" costs="75" />
+          </Children>
+        </Member>
+        <Member name="Lucas" sex="Male" birth="01.01.2000" health="24" charisma="14" intelligence="28" luck="17" kin="1" generation="2" number="3" primary_ed="No" secondary_ed="No" higher_ed="No" specialization="No" spec_level="0" unspec_level="0.0.0.0.0" health_status="Healthy" career_status="Unemployed" income="0" costs="75" />
+      </Children>
+    </Member>
+  </Core_member>
+</Family>
